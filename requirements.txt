@@ -4,4 +4,4 @@ torch==1.8.1
 torchvision==0.9.1
 typing-extensions==3.10.0.0
 opencv-python-headless==4.5.2.52
-streamlit==0.81.1pip 
+streamlit==0.81.1 
